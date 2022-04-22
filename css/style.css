@@ -1,0 +1,18 @@
+.flash{
+	text-align: center;
+    background: green;
+    color: #fff;
+    padding: 8px;
+    position: relative;
+    top: 56px;
+}
+
+.container {
+	margin-top: 100px;
+}
+
+.red {
+	color: red;
+	font-weight: bold;
+	font-size: 19px;
+}
